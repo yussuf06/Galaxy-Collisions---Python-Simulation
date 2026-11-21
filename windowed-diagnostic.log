@@ -1,0 +1,12 @@
+Starting application with windowed Python.
+Traceback (most recent call last):
+  File "C:\Users\yusuf\Downloads\galaxy-python-desktop-v0.2.1\diagnose_windowed_start.py", line 12, in <module>
+    try:runpy.run_path(str(project/'main.py'),run_name='__main__')
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 287, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "C:\Users\yusuf\Desktop\galaxy-python-desktop\galaxy-python-desktop\main.py", line 38, in <module>
+    if __name__=='__main__':raise SystemExit(main())
+                            ^^^^^^^^^^^^^^^^^^^^^^^^
+SystemExit: 0
