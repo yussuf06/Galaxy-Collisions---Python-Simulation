@@ -1,0 +1,28 @@
+{
+  "file": "mice.tif",
+  "crop": null,
+  "title": "The Mice",
+  "names": [
+    "NGC 4676A",
+    "NGC 4676B"
+  ],
+  "cores": [
+    [
+      0.32,
+      0.4
+    ],
+    [
+      0.52,
+      0.38
+    ]
+  ],
+  "source": "https://science.nasa.gov/asset/hubble/the-mice-ngc-4676-colliding-galaxies-with-tails-of-stars-and-gas/",
+  "credit": "NASA, ESA, ACS Science Team",
+  "points": 49806,
+  "source_size": [
+    900,
+    422
+  ],
+  "kind": "photo-derived illustration",
+  "depth": "synthetic thin depth for parallax; not measured 3D structure"
+}

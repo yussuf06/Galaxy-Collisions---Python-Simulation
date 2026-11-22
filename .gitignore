@@ -1,0 +1,20 @@
+# Local environments and compilation caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.nbc
+*.nbi
+
+# Local state and generated output
+logs/
+backups/
+output/
+screenshots/
+checkpoints/
+*.log
+/*.npz
+*.lnk
+original-version-restore.json
+.env
+.env.*

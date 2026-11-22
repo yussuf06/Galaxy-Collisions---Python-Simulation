@@ -1,0 +1,33 @@
+{
+  "file": "heart-photographer.jpg",
+  "crop": [
+    1450,
+    1210,
+    2350,
+    2160
+  ],
+  "title": "The Heart",
+  "names": [
+    "NGC 4038",
+    "NGC 4039"
+  ],
+  "cores": [
+    [
+      0.38,
+      0.42
+    ],
+    [
+      0.65,
+      0.47
+    ]
+  ],
+  "source": "https://science.nasa.gov/image-article/apod-2024-february-7-the-heart-shaped-antennae-galaxies/",
+  "credit": "Kent E. Biggs; featured by NASA APOD",
+  "points": 139531,
+  "source_size": [
+    853,
+    900
+  ],
+  "kind": "photo-derived illustration",
+  "depth": "synthetic thin depth for parallax; not measured 3D structure"
+}

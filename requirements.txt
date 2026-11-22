@@ -1,0 +1,7 @@
+# Required desktop dependencies. Python 3.11 or 3.12 recommended.
+numpy>=1.26,<3
+PySide6-Essentials>=6.7,<7
+vispy>=0.17,<0.18
+PyOpenGL>=3.1,<4
+# Optional accelerator: python -m pip install numba
+# The app remains usable through its NumPy force solver if Numba is unavailable.

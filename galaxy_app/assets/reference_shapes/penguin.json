@@ -1,0 +1,33 @@
+{
+  "file": "penguin.png",
+  "crop": [
+    180,
+    1550,
+    3000,
+    4700
+  ],
+  "title": "The Penguin and the Egg",
+  "names": [
+    "NGC 2936",
+    "NGC 2937"
+  ],
+  "cores": [
+    [
+      0.55,
+      0.35
+    ],
+    [
+      0.25,
+      0.67
+    ]
+  ],
+  "source": "https://science.nasa.gov/asset/webb/interacting-galaxies-arp-142-nircam-and-miri-image/",
+  "credit": "NASA, ESA, CSA, STScI",
+  "points": 148979,
+  "source_size": [
+    806,
+    900
+  ],
+  "kind": "photo-derived illustration",
+  "depth": "synthetic thin depth for parallax; not measured 3D structure"
+}

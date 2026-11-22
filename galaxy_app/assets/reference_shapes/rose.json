@@ -1,0 +1,28 @@
+{
+  "file": "rose.jpg",
+  "crop": null,
+  "title": "The Rose",
+  "names": [
+    "UGC 1810",
+    "UGC 1813"
+  ],
+  "cores": [
+    [
+      0.49,
+      0.3
+    ],
+    [
+      0.46,
+      0.76
+    ]
+  ],
+  "source": "https://science.nasa.gov/asset/hubble/a-rose-made-of-galaxies-highlights-hubbles-21st-anniversary/",
+  "credit": "NASA, ESA, Hubble Heritage Team (STScI/AURA)",
+  "points": 91880,
+  "source_size": [
+    888,
+    900
+  ],
+  "kind": "photo-derived illustration",
+  "depth": "synthetic thin depth for parallax; not measured 3D structure"
+}
